@@ -11,6 +11,8 @@ $valor ->Preco = 1000.00;
 $valor ->Quantidade = 3;
 
 
+
+
 $valor1 ->Codigo = 4065;
 $valor1 ->Descricao = "Camiseta da Hello Kitty";
 $valor1 ->Preco = 300.00;
